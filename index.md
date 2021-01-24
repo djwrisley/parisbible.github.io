@@ -2,9 +2,8 @@
 
 The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
 
-A Paris Bible, also known as a Parisian Bible, is a format of Bible that is standardized in the 13th century and spreads as a model through Europe. 
+A Paris Bible, also known as a Parisian Bible, is a format of Bible that is standardized in the 13th century and spreads as a model through Europe. It was started by Estelle Guéville (Louvre Abu Dhabi) and David Joseph Wrisley (NYU Abu Dhabi). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
