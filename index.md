@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Paris Bible Project!
 
-You can use the [editor on GitHub](https://github.com/parisbible/parisbible.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The Paris Bible Project aims to understand the production and diffusion of medieval Latin Bibles in Europe.
+
+A Paris Bible, also known as a Parisian Bible, is a format of Bible that is standardized in the 13th century and spreads as a model through Europe. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
